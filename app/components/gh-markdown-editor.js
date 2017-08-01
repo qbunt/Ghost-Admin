@@ -119,7 +119,7 @@ export default Component.extend(ShortcutsMixin, {
                         this._toggleHemmingway();
                     },
                     className: 'fa fa-h-square',
-                    title: 'Toggle Hemmingway Mode'
+                    title: 'Toggle Hemingway Mode'
                 },
                 {
                     name: 'guide',
